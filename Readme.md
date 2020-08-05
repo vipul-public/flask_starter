@@ -14,7 +14,7 @@ sh local_dev.sh
 
 Tests
 ```
-sh local_dev.sh
+sh local_test.sh
 ```
 
 API Docs
